@@ -28,6 +28,20 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
+## 🧑‍💻 Experience
+
+- **2025 숭실대학교 ICT프로젝트 수료**
+ (2025.07 ~ 2025.08)
+
+---
+## 🏆 Awards
+- [숭실대X렛유인] 2025 ICT프로젝트 챌린지 우수상 (2025.08)  
+
+---
+
+## 📜 Certifications
+-  SAP C_P2WAB Backend Developer - ABAP Cloud
+
 <!--
 **mjjkim/mjjkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
